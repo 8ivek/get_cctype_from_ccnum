@@ -1,2 +1,6 @@
-# get_cctype_from_ccnum
-Get credit card type from credit card number
+# Get cctype from ccnumber
+PHP function to get credit card type from credit card number
+
+# Regular Expression
+
+# Unit test
